@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "surf-shop",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
